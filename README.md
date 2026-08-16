@@ -1,3 +1,7 @@
+---
+title: Privacy Policy for Coppla
+---
+
 # Privacy Policy for Coppla
 
 **Last updated: August 2026**
@@ -20,14 +24,26 @@ your name) provided by the authentication service.
 cells have been marked) and a unique identifier that links your account to your
 partner's account to enable real-time synchronization.
 
+**Savings Data.** We store the settings of your savings challenge — the base
+contribution, the goal, and the amount recorded with each marked cell. This data
+is stored so that both partners see the same board, and is visible only to the
+two of you. It is never sent to analytics services and never appears in the text
+of a notification.
+
 **Analytics Data.** We collect anonymous statistics about how the app is used —
 for example, which screens are opened, whether a game is created, and whether a
 game is completed. This data is aggregated, is not used to identify you
-personally, and is never linked to the amounts you save.
+personally, and is never linked to the amounts you save. You can turn analytics
+off at any time in **Settings**, and collection stops entirely.
 
 **Device Token.** If you enable notifications, we store a technical identifier
 of your device. It is used solely to deliver notifications to you and cannot be
 used to identify you personally.
+
+**Device Identifiers.** The analytics library assigns an installation identifier
+to each copy of the app and reads the Android advertising identifier. We use
+these only to count users and understand usage. We do not use them to show you
+ads or to build advertising audiences.
 
 ---
 
@@ -60,6 +76,10 @@ and Firebase Analytics to collect anonymous usage statistics. Firebase is
 operated by Google. You can read Google's privacy policy at
 <https://policies.google.com/privacy>.
 
+Notifications are delivered through Google's servers. What travels through them
+is a bare fact — which cell was closed, in which game — and never an amount.
+The wording you see on screen is composed on your own device.
+
 ---
 
 ## 4. Notifications
@@ -76,11 +96,11 @@ You have the right to request the deletion of your account and all associated
 data at any time.
 
 You can delete your account directly within the app by navigating to
-**Settings → Delete Account**. Alternatively, you can request data deletion by
-contacting us at the email address provided below.
+**Settings → Delete Account**. If you have already uninstalled the app, you can
+request deletion by email instead.
 
-Upon request, all your account information and associated progress data will be
-permanently removed from our databases.
+**Full instructions, and the list of exactly what is deleted, are on our
+[account deletion page](https://gritsandev.github.io/coppla-privacy/delete/).**
 
 ---
 
