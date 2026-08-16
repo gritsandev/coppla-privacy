@@ -41,9 +41,9 @@ of your device. It is used solely to deliver notifications to you and cannot be
 used to identify you personally.
 
 **Device Identifiers.** The analytics library assigns an installation identifier
-to each copy of the app and reads the Android advertising identifier. We use
-these only to count users and understand usage. We do not use them to show you
-ads or to build advertising audiences.
+to each copy of the app, which we use only to count users and understand usage.
+We do not collect the Android advertising identifier: collection of it is
+switched off, and the permission that would allow it is removed from the app.
 
 ---
 
